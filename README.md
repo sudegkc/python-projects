@@ -1,2 +1,2 @@
 # python-problem-solutions
-My work on Python programming fundamentals, data structures, and algorithm development.(poliTo)
+My projects and solutions of problems on Python programming fundamentals, data structures, and algorithm development.(poliTo)
